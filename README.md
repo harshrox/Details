@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HarshJha-1
-- 👀 I’m interested in games and their development.
-- 🌱 I’m currently learning web development.
+- 👋 Hi, I’m @harshrox
+- 👀 I’m interested in video games and their development.
+- 🌱 I’m currently learning android development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me harshjha08@outlook.com
+- 📫 Reach me at harshjha08@outlook.com
 
 <!---
 HarshJha-1/HarshJha-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
