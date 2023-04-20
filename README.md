@@ -11,8 +11,13 @@ I'm a coding enthusiast currently learning Android development. My goal is to be
 - HTML/CSS
 
 ## Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshrox&show_icons=true&theme=highcontrast)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshrox&theme=highcontrast)](https://git.io/streak-stats)
+
+<a href="https://github-readme-stats.vercel.app/api?username=harshrox&show_icons=true&theme=highcontrast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrox&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=harshrox&theme=highcontrast" />
+</a>
 
 ## Contact
 
