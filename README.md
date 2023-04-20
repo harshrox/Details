@@ -10,8 +10,13 @@ I'm a coding enthusiast currently learning Android development. My goal is to be
 - C
 - HTML/CSS
 
+## Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshrox&show_icons=true&theme=highcontrast)
+
 ## Contact
 
 You can reach me at harshjha08@outlook.com for any inquiries or collaboration opportunities. I'm always looking to connect with like-minded individuals and learn from others in the industry.
 
 Thanks for stopping by!
+
+
