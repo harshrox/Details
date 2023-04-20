@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh! 👋
 
-I'm a coding enthusiast currently learning Android development. I enjoy learning new programming languages and exploring new technologies.
+I'm a coding enthusiast currently learning Android development. My goal is to become a game developer in the future, and I'm always looking for ways to improve my skills and learn new technologies
 
 ## Skills
 
