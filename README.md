@@ -12,6 +12,7 @@ I'm a coding enthusiast currently learning Android development. My goal is to be
 
 ## Stats
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshrox&show_icons=true&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshrox&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Contact
 
