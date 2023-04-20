@@ -10,6 +10,13 @@ I'm a coding enthusiast currently learning Android development. My goal is to be
 - C
 - HTML/CSS
 
+## Profiles
+
+- [HackerRank](https://www.hackerrank.com/harshrox?hr_r=1)
+- [CodeChef](https://www.codechef.com/users/roxharsh)
+- [LeetCode](https://leetcode.com/harshrox/)
+
+
 ## GitHub Stats
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshrox&show_icons=true&theme=highcontrast) 
