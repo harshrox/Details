@@ -12,9 +12,10 @@ I'm a coding enthusiast currently learning Android development. My goal is to be
 
 ## Profiles
 
-- [HackerRank](https://www.hackerrank.com/harshrox?hr_r=1)
-- [CodeChef](https://www.codechef.com/users/roxharsh)
 - [LeetCode](https://leetcode.com/harshrox/)
+- [HackerRank](https://www.hackerrank.com/harshrox?hr_r=1)
+- [Codeforces](https://codeforces.com/profile/harshrox)
+
 
 
 ## GitHub Stats
