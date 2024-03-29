@@ -1,14 +1,18 @@
 # Hi there, I'm Harsh! 👋
 
-I'm a coding enthusiast currently learning Android development. My goal is to become a game developer in the future, and I'm always looking for ways to improve my skills and learn new technologies.
+I'm a coding enthusiast currently learning backend development. My goal is to become a game developer in the future, and I'm always looking for ways to improve my skills and learn new technologies.
 
 ## Skills
 
 - Java
 - Android development
+- Spring Boot
 - Python
 - C
 - HTML/CSS
+- Tailwind CSS
+- JavaScript
+- ReactJS
 
 ## Profiles
 
