@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh! 👋
 
-I'm a coding enthusiast currently learning backend development. I'm a 4th-semester B.Tech in Computer Science and Engineering student at the Indian Institute of Information Technology, Kalyani and I'm proficient in languages like Java, Python, JavaScript, and C. I'm always looking for ways to improve my skills and learn new technologies.
+I'm a coding enthusiast currently learning backend development. I'm a 5th-semester B.Tech in Computer Science and Engineering student at the Indian Institute of Information Technology, Kalyani and I'm proficient in languages like Java, Python, JavaScript, and C. I'm always looking for ways to improve my skills and learn new technologies.
 
 ## Skills
 
